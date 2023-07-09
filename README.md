@@ -2,7 +2,7 @@
 ## <ins>Description
 A premium Discord CFX Finder bot for getting info about the FiveM server
   
-`Official Discord:` [https://discord.gg/HW9zCdRSVa](https://discord.gg/HW9zCdRSVa)
+`Official Discord:` [https://discord.gg/HW9zCdRSVa](https://discord.gg/YxDMUenVtz)
 
 ## <ins>Preview
 ![image](https://user-images.githubusercontent.com/43515908/139682801-9892ac82-3bf9-4808-be8e-17fe4fef56f1.png)
